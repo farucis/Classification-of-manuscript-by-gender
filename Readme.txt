@@ -1,7 +1,8 @@
 
 author's contact information:
-faruch ismaeilov-319258737
-idan ben nahum-312552995
+faruch ismaeilov
+www.linkedin.com/in/faruch-ismailov
+
 
 delete notebooks line from picture project
 the project is in python. to run the project you need to use in command line
