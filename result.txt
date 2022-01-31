@@ -1,0 +1,17 @@
+Best kernel: RFP 
+
+Best Parameters:
+
+  Radios = 1 points_num = 8 	 C = 1 gamma = 10 
+
+  Radios = 3 points_num = 24 	 C = 0.1 gamma = 0.1 
+
+Best Accuracy: 68.57%
+
+
+  Confusion Matrix
+------  ----  ------
+        male  female
+male    27    8
+female  14    21
+------  ----  ------
